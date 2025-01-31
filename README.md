@@ -1,4 +1,4 @@
-# Homework 7
+# Homework 8
 
 ## Overview
 This project is a Python application designed to demonstrate the structure and functionality of a typical Python project.
